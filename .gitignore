@@ -1,0 +1,4 @@
+# Large CAD exports are data, not source: they must never be published.
+*.dxf
+*.dwg
+*.obj
